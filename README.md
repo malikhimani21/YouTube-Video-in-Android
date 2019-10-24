@@ -20,3 +20,9 @@ Steps
  https://console.developers.google.com/apis/dashboard?project=fir-storage1-e99be&supportedpurview=project
  Create api key from above link.
  You have to add your package name and SHA-1 certificate here.
+
+
+
+
+
+![Output](https://user-images.githubusercontent.com/55083861/67509262-41324000-f6b0-11e9-8002-843c69c14b54.jpeg)
